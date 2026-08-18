@@ -1,0 +1,5 @@
+live_http.log
+__pycache__/
+*.pyc
+update.log
+.DS_Store
